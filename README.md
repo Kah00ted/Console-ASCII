@@ -10,3 +10,6 @@
  ```                                                                                                                                                                 
 # Scripts to print ASCII art in the console
 ### Goal: Make it easy to print ASCII art in any language 
+
+
+## Current languages
