@@ -13,3 +13,6 @@
 
 
 ## Current languages
+* [Python](https://github.com/Kah00ted/Console-ASCII/blob/master/scripts/python.py)
+
+## Contribute
